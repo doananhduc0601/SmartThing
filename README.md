@@ -35,9 +35,8 @@ yarn ios
 ```
 
 About Application
-
-## Main
 <img src="./Image/Image1.jpg" alt="InfiniteGraph Logo" width="320">
+## Main
 ![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image1.jpg?raw=true)
 ![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image3.jpg?raw=true)
 ## Login
