@@ -37,10 +37,11 @@ yarn ios
 About Application
 
 ## Main
+<img src="./Image/Image1.jpg" alt="InfiniteGraph Logo" width="320">
 ![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image1.jpg?raw=true)
-![alt text](https://github.com/doananhduc0601/SmartThing/tree/main/SmartHome/Image/Image3.jpg)
+![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image3.jpg?raw=true)
 ## Login
-![alt text](https://github.com/doananhduc0601/SmartThing/tree/main/SmartHome/Image/Image.jpg)
+![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image.jpg?raw=true)
 ## Detail
-![alt text](https://github.com/doananhduc0601/SmartThing/tree/main/SmartHome/Image/Image2.jpg)
-![alt text](https://github.com/doananhduc0601/SmartThing/tree/main/SmartHome/Image/Image4.jpg)
+![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image2.jpg?raw=true)
+![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image4.jpg?raw=true)
