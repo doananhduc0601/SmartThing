@@ -35,12 +35,13 @@ yarn ios
 ```
 
 About Application
-<img src="/SmartHome/Image/Image1.jpg" alt="Main" width="320">
 ## Main
-![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image1.jpg?raw=true)
-![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image3.jpg?raw=true)
+<img src="/SmartHome/Image/Image1.jpg" alt="Main" width="320">
+<img src="/SmartHome/Image/Image3.jpg" alt="Main" width="320">
+
 ## Login
-![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image.jpg?raw=true)
+<img src="/SmartHome/Image/Image.jpg" alt="Main" width="320">
+
 ## Detail
-![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image2.jpg?raw=true)
-![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image4.jpg?raw=true)
+<img src="/SmartHome/Image/Image4.jpg" alt="Main" width="320">
+
