@@ -1,0 +1,11 @@
+{
+  "name": "SmartHome",
+  "displayName": "SmartHome",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "e92d0806-c464-4bbf-a3c1-f67a215797a3"
+      }
+    }
+  }
+}
