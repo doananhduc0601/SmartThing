@@ -33,3 +33,12 @@ npm run ios
 # OR using Yarn
 yarn ios
 ```
+
+About Application
+
+## Main
+![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartThing/Image/image1.jpg?raw=true)
+## Login
+![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartThing/Image.image2.jpg?raw=true)
+## Detail
+![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartThing/Image/image3.jpg?raw=true)
