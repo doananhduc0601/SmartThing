@@ -37,7 +37,7 @@ yarn ios
 About Application
 
 ## Main
-![alt text](https://github.com/doananhduc0601/SmartThing/tree/main/SmartHome/Image/Image1.jpg)
+![alt text](https://github.com/doananhduc0601/SmartThing/blob/main/SmartHome/Image/Image1.jpg?raw=true)
 ![alt text](https://github.com/doananhduc0601/SmartThing/tree/main/SmartHome/Image/Image3.jpg)
 ## Login
 ![alt text](https://github.com/doananhduc0601/SmartThing/tree/main/SmartHome/Image/Image.jpg)
